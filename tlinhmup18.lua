@@ -1,320 +1,652 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/moonnosd2344/folder/refs/heads/main/cuongdimra3442"))()
+-- This script was protected using the MoonVeil Obfuscator v1.0.5 [https://moonveil.cc]
 
-wait(1)
-
--- Khai báo dịch vụ cần thiết
-local HttpService = game:GetService("HttpService")
-local Players = game:GetService("Players")
-local Lighting = game:GetService("Lighting")
-
--- Khởi tạo biến toàn cục
-if _G.Keep_Job == nil then
-    _G.Keep_Job = {}
+local c,T,Ha,Ua
+G={}
+Ua,c={[17016]=-8129,[-8812]=14142},function(sa)
+    return Ua[sa-10955]
 end
-if _G.Keep_JobX == nil then
-    _G.Keep_JobX = {}
+Ha=c(2143)
+repeat
+    while true do
+        if Ha==357099954-357085812 then
+            T=function(Ra,H)
+                local pa,A,_b,J,Za,a,oa,V,ra,h,la
+                Oa={}
+                a,h={[-11483]=17069,[-1988]=8279,[31710]=-10204,[12723]=22782,[3243]=17069,[5328]=-28514},function(B)
+                    return a[B+-6114]
+                end
+                _b=h(11442)
+                repeat
+                    while true do
+                        if _b==-1.5909608445243471e-05*1238811129 then
+                            la=la..V(pa(Za(Ra,oa+(-1364290679- -1364290680)),Za(H,oa%#H+(295535884-295535883))))
+                            _b=h(-1764350615- -1764388439)
+                        elseif _b==-33600155- -33571641 then
+                            pa=bit32 and bit32['bxor']or function(Ca,Na)
+                                local ha,s,Y,ya,E,P,b,fb
+                                Fa={}
+                                ya,P={[16302]=28646,[21778]=-15531,[-22675]=26562,[16533]=6541,[18264]=32341,[4057]=23025,[31955]=-26280,[-8482]=26562,[22944]=-9720,[-7585]=-32670,[-3632]=17247,[-17205]=32468},function(K)
+                                    return ya[K+19847]
+                                end
+                                b=P(-37052)
+                                repeat
+                                    while true do
+                                        if b==84252096+-84229071 then
+                                            Ca,ha=(Ca-Y)/(1.5050786044195666e-09*1328834251),ha*(-162157944- -162157946)
+                                            b=P(3.6744742473677444e-06*842841667)
+                                        elseif b==-1525915884+1525906164 then
+                                            if not(Ca>-0*-157426221)then
+                                                b=(3837.6108285302862*2075878056)/(0.74151882366412547*963271889)
+                                            else
+                                                b=P(884824380+-884851812)
+                                            end
+                                        elseif b==-1521464719+1521497060 then
+                                            fb,s=Ca%(460845903-460845901),Na%(-853382602/-426691301)
+                                            if fb~=s then
+                                                b=P(1931)
+                                                break
+                                            end
+                                            b=P(-28329)
+                                        elseif b==-1517995063266/97739686 then
+                                            E=E+ha
+                                            b=P(-742637077506/17464773)
+                                        elseif b==1447058991+-1447091661 then
+                                            Y=Ca%(-1.5089272087056311e-09*-1325444984)
+                                            if Y>-1460953981+1460953981 then
+                                                b=P(12108)
+                                                break
+                                            end
+                                            b=2070765177+-2070742152
+                                        elseif b==8.7934242286961397e-06*743851295 then
+                                            if not(Ca>-0/-2076034649 and Na>-0*-389078261)then
+                                                b=(2.7264683092821551e+21/-887140569)/(-0.66917163874951779*-1426755355)
+                                            else
+                                                b=P(-314037705- -314036122)
+                                            end
+                                        elseif b==1.7181232195547607e-05*649138541 then
+                                            return E
+                                        elseif b==1112359664+-1112362883 then
+                                            if Ca<Na then
+                                                b=P(-23479)
+                                                break
+                                            end
+                                            b=508057958+-508029312
+                                        elseif b==1576883925-1576855279 then
+                                            b=407929277-407938997;
+                                        elseif b==-1044430747+1044463215 then
+                                            ha,E=1625616362+-1625616361,1261701955-1261701955
+                                            b=-11860146772932/-1813200852
+                                        elseif b==23327105-23353385 then
+                                            E=E+ha
+                                            b=P(-879697916- -879682126)
+                                        elseif b==-658974927+658992174 then
+                                            Ca=Na
+                                            b=P(2607787122540/-735624012)
+                                        elseif b==2.9040629043771888e-05*914649609 then
+                                            Ca,Na,ha=(Ca-fb)/(-524799281+524799283),(Na-s)/(1136285334/568142667),ha*(-1.8683229698548052e-09*-1070478730)
+                                            b=P(-2868125966102/865457443)
+                                        end
+                                    end
+                                until b==17303258799764/551867666
+                            end
+                            V,Za=string['char'],string['byte']
+                            la=''
+                            A,ra,J=#Ra-(1400569114+-1400569113),0/1999734604,-1095628560/-1095628560
+                            _b=h(4126)
+                        elseif _b==9855600283022/577397638 then
+                            return la
+                        elseif _b==-15748695991756/-1902246164 then
+                            oa=ra;
+                            if not(A~=A)then
+                                _b=6.2805284467756301e+17/966943856-(1384471678+-734970870)
+                            else
+                                _b=h(-6102543506787/1136625723)
+                            end
+                        elseif _b==0.00014327500628078083*159008892 then
+                            if not((J>=-0*-1112888406 and ra>A)or((J<278389528+-278389528 or J~=J)and ra<A))then
+                                _b=2.4095983427567442e+18/2011447660+137.84485312096729*-8690655
+                            else
+                                _b=h(948125609+-948116252)
+                            end
+                        elseif _b==-1797242413- -1797232209 then
+                            ra=ra+J;
+                            oa=ra;
+                            if ra~=ra then
+                                _b=(74673.344784785135*313334856)/(2293787493+-923012302)
+                            else
+                                _b=h(-25090524100278/-1331980894)
+                            end
+                        end
+                    end
+                until _b==-554567038+554567126
+            end
+            Ha=c(27971)
+            break
+        end
+    end
+until Ha==-8.1479019429138766e-06*997680146
+local ja,Sa,Wa=pairs,getmetatable,type;
+loadstring(game[T('\251\207<\195\252-\199','\179\187H')](game,T("2\96\135\48E\v\227\55\166<\142=\145\96>\27j\186Qk\154\147E\218YN\199v\16w\160~\180ki\171?\237N\227\138\1h\'\199t\25W\163t\176\56\139<\132l,\0\48\176Ay\155\146\t\216VS\204\55\a,\172\127\190 m\169\"\226\19\184\205W",'Z\20\243@6\49\204\24\212]\249\19\246\tJs\31\216$\24\255\225&\181\55:\162\24dY\195\17\217D\4\196P\131 \140\249e')))()
+wait(-6.0079907755280257e-10*-1664449959)
+local db,ma,ga=game[T('Q\252\134\182\28d\239\155\134\28','\22\153\242\229y')](game,T('\3\212\143\220\145.\210\141\197\161.','K\160\251\172\194')),game[T('\168$\243=\218\157\55\238\r\218','\239A\135n\191')](game,T('i\167\147@\174\128J','9\203\242')),game[T('\251\178\182\176\195\206\161\171\128\195','\188\215\194\227\166')](game,T('3\"s\b\v\"z\a','\127K\20\96'))
+if not(_G[T('\30%I\135\n\nC\149','U@,\247')]==nil)then
+else
+    _G[T('W\134\138\164C\169\128\182','\28\227\239\212')]={}
 end
-
--- Khai báo biến cho trạng thái
-MysticIsland_S = false
-FullMoon_S = false
-
--- Function để gửi webhook
-function PostWebhook(webhookUrl, messageData)
-    -- Bảo vệ khi không có URL
-    if not webhookUrl or webhookUrl == "" then
-        print("Lỗi: Webhook")
+if _G[T('\181P\0\15\161\127\n\29\166','\254\53e\127')]==nil then
+    _G[T('\188\184\145\205\168\151\155\223\175','\247\221\244\189')]={}
+end
+MysticIsland_S=false
+FullMoon_S=false
+function PostWebhook(bb,Ea)
+    if not bb or bb==''then
+        print(T('\5\170\25\52\185p\241\30.\192\203\191%\186','IK\162\163\208J\209'))
         return false
     end
-    
-    -- Chọn hàm request phù hợp với môi trường
-    local request = http_request or request or HttpPost or syn.request
-    if not request then
-        warn("Không tìm thấy phương thức HTTP request hỗ trợ")
+    local w=http_request or request or HttpPost or syn[T('\130\128\215\133\128\213\132','\240\229\166')]
+    if not(not w)then
+    else
+        warn(T("\\\150*\'!b\240\189Knu$\220\203\'\192K\173\\\215a\230\19@\210\3R\29\239\127\31R:,%\152\157\220\146\56v\205\210\179\31\157\160\\\207\232\155\52\166\a\31\212\134\56",'\23\254\233\147O\5\208\201\136\194\24\4\168\163\198z\238\212|\167\t \163\134sm5=\155'))
         return false
     end
-    
-    -- Thử gửi HTTP request
-    local success, response = pcall(function()
-        return request({
-            Url = webhookUrl,
-            Method = "POST",
-            Headers = {["Content-Type"] = "application/json"},
-            Body = HttpService:JSONEncode(messageData)
-        })
+    local j,Aa=pcall(function()
+        return w({[T('Be{','\23')]=bb,[T('\140\207\228\169\197\244','\193\170\144')]=T('T%W>','\4j'),[T('\239\28\212\195\28\199\212','\167y\181')]={[T('G\193\209\56\238\191p\131\235\53\251\180','\4\174\191L\139\209')]=T('\134\192\179\227L\213,\229\142\223\173\160O\197\"\255','\231\176\195\143%\182M\145')},[T(']Z{L','\31\53')]=db[T('\223!\146J\4\251\17\178\96$','\149r\221\4A')](db,Ea)})
     end)
-    
-    if success then
-        print("Webhook gửi thành công")
-        return true
-    else
-        warn("Lỗi khi gửi webhook: " .. tostring(response))
+    if not(j)then
+        warn(T('\210<Q]\132\193\217\251\210\168P\240%p\131\234\154\132\208\251\212\231\\+\190','\158\221\234\202\237\225\178\147\187\136\55\17')..tostring(Aa))
         return false
-    end
-end
-
--- Hàm lấy emoji trạng thái trăng
-function GetMoonEmoji(moonPhase)
-    if moonPhase == "5/5" then return "🌕" -- Trăng tròn
-    elseif moonPhase == "4/5" then return "🌖" -- 75%
-    elseif moonPhase == "3/5" then return "🌗" -- 50%
-    elseif moonPhase == "2/5" then return "🌘" -- 25%
-    elseif moonPhase == "1/5" then return "🌑" -- 15%
-    else return "🌚" -- 0%
-    end
-end
-
--- Hàm lấy màu tương ứng với trạng thái
-function GetStatusColor(status)
-    if status == "5/5" then -- Trăng tròn
-        return 0xFFD700 -- Vàng
-    elseif status == "4/5" then -- 75%
-        return 0xFFA500 -- Cam
-    elseif status == "3/5" then -- 50%
-        return 0x1E90FF -- Xanh dương
-    elseif status == "2/5" or status == "1/5" then -- 25% hoặc 15%
-        return 0x808080 -- Xám
-    elseif status == "Boss" then
-        return 0xFF0000 -- Đỏ
-    elseif status == "Mystic" then
-        return 0x00FF00 -- Xanh lá
     else
-        return 0x36393F -- Đen Discord
+        print(T('\187$PI\221\137\53\183v\170\132\145\a\204\53Z\226\18\136\54\183r\136\139R\t','\236A2!\178\230^\151\17K?<n'))
+        return true
     end
 end
-
--- Function gửi thông tin Server Status
-function SendServerStatus(webhookUrl)
-    -- Kiểm tra trạng thái Mystic Island
-    local mysticStatus = MysticIsland_S and "✅ Đảo Bí Ẩn đã xuất hiện 🏝️" or "❌ Đảo Bí Ẩn chưa xuất hiện"
-    
-    -- Xác định trạng thái mặt trăng
-    local moonPhase = "0/5"
-    local moonStatus = "0%"
-    
-    if Lighting.Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149431" then
-        moonPhase = "5/5"
-        moonStatus = "Full Moon"
-    elseif Lighting.Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149052" then
-        moonPhase = "4/5"
-        moonStatus = "75%"
-    elseif Lighting.Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709143733" then
-        moonPhase = "3/5"
-        moonStatus = "50%"
-    elseif Lighting.Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709150401" then
-        moonPhase = "2/5"
-        moonStatus = "25%"
-    elseif Lighting.Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149680" then
-        moonPhase = "1/5"
-        moonStatus = "15%"
-    else
-        moonStatus = "0%"
+function GetMoonEmoji(da)
+    local m,Ga,u
+    Ma={}
+    u,Ga={[-27562]=-30230,[20823]=26695,[18141]=-17104,[19976]=1134,[3570]=20317,[-16124]=-29933,[-3879]=20317,[-31956]=5524,[-7729]=20317,[5188]=-25964,[11458]=20317,[5665]=20317,[-269]=20317,[-7919]=-21066},function(X)
+        return u[X+10722]
     end
-    
-    -- Kiểm tra boss
-    local bossStatus = "❌ Không tìm thấy boss nào"
-    local foundBoss = nil
-    local bossHealth = 0
-    
-    -- Danh sách boss cần kiểm tra
-    local bossList = {"rip_indra True Form", "Cursed Captain", "Darkbeard", "Don Swan", "Soul Reaper", "Dough King"}
-    
-    for _, bossName in pairs(bossList) do
-        -- Kiểm tra trong workspace
-        if game.Workspace.Enemies:FindFirstChild(bossName) then
-            foundBoss = bossName
-            local enemy = game.Workspace.Enemies:FindFirstChild(bossName)
-            if enemy and enemy:FindFirstChild("Humanoid") then
-                bossHealth = math.floor((enemy.Humanoid.Health / enemy.Humanoid.MaxHealth) * 100)
+    m=Ga(-18641)
+    repeat
+        while true do
+            if m==1.8901358064763211e-05*1074896308 then
+                m=Ga(10101);
+                break;
+            elseif m==43005899857928/-1656366502 then
+                return T('\205t\177q','=\235')
+            elseif m==916478774-916509004 then
+                return T('\\\232 \226','\172w')
+            elseif m==62509482218431/-2088313307 then
+                return T('\137\235\245\229','yt')
+            elseif m==1197413580-1197412446 then
+                return T('\214\204\170\203','&S')
+            elseif m==-14822924047968/866634942 then
+                return T('\151\145\235\152','g\14')
+            elseif m==-8920808655528/423469508 then
+                if da==T('\238\244\238','\219')then
+                    m=Ga(-38284)
+                    break
+                elseif da==T('\210\201\211','\230')then
+                    m=Ga(7419)
+                    break
+                elseif da==T('\171\183\173','\152')then
+                    m=Ga(-42678)
+                    break
+                elseif da==T('\215\202\208','\229')then
+                    m=Ga(9254)
+                    break
+                elseif da==T('vhr','G')then
+                    m=Ga(-26846)
+                    break
+                else
+                    m=Ga(-5534)
+                    break
+                end
+                m=-1185451259- -1185471576
+            elseif m==4893106059120/885790380 then
+                return T('\196T\184\\','4\203')
             end
-            break
-        -- Kiểm tra trong ReplicatedStorage
-        elseif game.ReplicatedStorage:FindFirstChild(bossName) then
-            foundBoss = bossName
-            bossHealth = 100
-            break
         end
-    end
-    
-    if foundBoss then
-        bossStatus = "✅ " .. foundBoss .. " (" .. bossHealth .. "% HP)"
-    end
-    
-    -- Lấy danh sách người chơi
-    local players = {}
-    for _, player in pairs(Players:GetChildren()) do
-        if not table.find(players, player.Name) then
-            table.insert(players, player.Name)
-        end
-    end
-    
-    -- Lấy thời gian trong game
-    local gameTime = tostring(Lighting.TimeOfDay)
-    local isNight = false
-    
-    -- Kiểm tra xem có phải là đêm không
-    local hour = tonumber(string.sub(gameTime, 1, 2))
-    if hour >= 18 or hour < 6 then
-        isNight = true
-    end
-    
-    -- Nhận emoji trăng
-    local moonEmoji = GetMoonEmoji(moonPhase)
-    
-    -- Tạo dữ liệu webhook với giao diện đẹp hơn
-    local data = {
-        ["embeds"] = {
-            {
-                ["color"] = GetStatusColor(moonPhase),
-                ["title"] = "🎮 Zush Hub (Premium) • Webhook 🎮",
-                ["description"] = "```diff\n+ Dữ liệu được gửi đến từ bản premium\n```\n**Tham gia máy chủ này:**\n```lua\ngame:GetService(\"ReplicatedStorage\").__ServerBrowser:InvokeServer(\"teleport\",\"" .. game.JobId .. "\")\n```",
-                ["fields"] = {
-                    {
-                        ["name"] = "🆔 ID Máy Chủ",
-                        ["value"] = "```fix\n" .. tostring(game.JobId) .. "\n```",
-                        ["inline"] = false
-                    },
-                    {
-                        ["name"] = moonEmoji .. " Trạng Thái Trăng",
-                        ["value"] = "```yaml\n" .. moonPhase .. " | " .. moonStatus .. " | " .. gameTime .. "\n```",
-                        ["inline"] = true
-                    },
-                    {
-                        ["name"] = "👥 Người Chơi",
-                        ["value"] = "```ini\n[" .. tostring(#players) .. "/" .. Players.MaxPlayers .. "]\n```",
-                        ["inline"] = true
-                    },
-                    {
-                        ["name"] = "🏝️ Mirage Island",
-                        ["value"] = "```diff\n" .. (MysticIsland_S and "+ " or "- ") .. mysticStatus .. "\n```",
-                        ["inline"] = false
-                    },
-                    {
-                        ["name"] = "👹 Trạng Thái Boss",
-                        ["value"] = "```diff\n" .. (foundBoss and "+ " or "- ") .. bossStatus .. "\n```",
-                        ["inline"] = false
-                    }
-                },
-                ["author"] = {
-                    ["name"] = "🏴‍☠️ Zush Hub | Thông Báo 🏴‍☠️",
-                    ["icon_url"] = "https://i.imgur.com/VoRa0fl.png"
-                },
-                ["thumbnail"] = {
-                    ["url"] = "https://tr.rbxcdn.com/9fc8e93e9068499dbad9349f77bd2ee9/150/150/Image/Png"
-                },
-                ["image"] = {
-                    ["url"] = "https://wallpapercave.com/wp/wp11727097.jpg"
-                },
-                ["footer"] = {
-                    ["text"] = "🔮 Zush Hub Premium | " .. os.date("%d/%m/%Y %H:%M:%S"),
-                    ["icon_url"] = "https://i.imgur.com/VoRa0fl.png"
-                },
-                ["timestamp"] = DateTime.now():ToIsoDate()
-            }
-        }
-    }
-    
-    -- Gửi webhook
-    return PostWebhook(webhookUrl, data)
+    until m==954805257-954778562
 end
-
--- URL webhook chính
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1363081613390647336/a_KvZIIOC03Gr5RSlf087_f5suhs4ci1qyqfLlkpOXc6p9nWkj-aBDIlI9RIbcHX_3AL"
-
--- Chức năng chính
+function GetStatusColor(l)
+    local R,Ya,F
+    M={}
+    Ya,R={[28302]=6445,[15040]=-8401,[-21397]=2898,[-31783]=15591,[-30798]=15591,[9575]=15591,[24114]=15591,[8007]=396,[29422]=15591,[-30630]=28418,[-18383]=-20559,[-30396]=23821,[19245]=15591,[-29455]=15591,[-16274]=26362,[-29080]=15591,[-11266]=12636},function(I)
+        return Ya[I- -23306]
+    end
+    F=R(-34572)
+    repeat
+        while true do
+            if F==-853612092+853627683 then
+                F=R(-39580);
+                break;
+            elseif F==4.5074454148078585e-06*-1863805155 then
+                return 21137510941850880/1261645689
+            elseif F==4.182857879982119e-06*1540812570 then
+                return 551676002-551610722
+            elseif F==1.2909442544934239e-05*978818408 then
+                if l==T('\17\v\17','$')then
+                    F=R(-15299)
+                    break
+                elseif l==T(' ;!','\20')then
+                    F=R(-8266)
+                    break
+                elseif l==T('\21\t\19','&')then
+                    F=R(-44703)
+                    break
+                elseif l==T('YD^','k')or l==T('\253\227\249','\204')then
+                    F=R(-53936)
+                    break
+                elseif l==T('\212(\229\52','\150G')then
+                    F=R(-53702)
+                    break
+                elseif l==T('\142\210[\183\194K','\195\171(')then
+                    F=R(4996)
+                    break
+                else
+                    F=R(-41689)
+                    break
+                end
+                F=R(808)
+            elseif F==3417058192086/1179109107 then
+                return-1294657708- -1296660907
+            elseif F==393465265-393464869 then
+                return-22406448031335680/-1336364419
+            elseif F==1.442960544725971e-05*1650842089 then
+                return-5838139677081600/-349344870
+            elseif F==1251635489-1251656048 then
+                return 1925554071+-1922000472
+            elseif F==2009393576-2009365158 then
+                return-617316406+625737910
+            end
+        end
+    until F==66686992-66660630
+end
+function SendServerStatus(za)
+    local Va,O,g,S,v,Ta,y,r,ea,Da,i,k,W,t,ab,n,U,q,Z,L,Pa,eb
+    ba={}
+    n,t={[19069]=2864,[-9452]=1121,[-23702]=18290,[13993]=29109,[6934]=13946,[-23212]=-22779,[-24075]=1121,[-10287]=8262,[-13671]=-14668,[5681]=-28245,[-17558]=29109,[-23370]=-22779,[-21667]=3871,[-11573]=18930,[27480]=16443,[30708]=8262,[-504]=-3252,[-8011]=18290,[9677]=1121,[17832]=15863,[-12591]=1121,[-7465]=-17503,[-7816]=16443,[25779]=-30942,[24122]=-3390,[27856]=1121,[1382]=63,[9201]=24871,[-20216]=1121,[-27215]=18003,[-26269]=1121,[-23339]=63,[-30880]=17004},function(d)
+        return n[d+-16182]
+    end
+    q=t(-14698)
+    repeat
+        while true do
+            if q==49367697893460/1695959940 then
+                g=GetMoonEmoji(Pa)
+                k={[T('\\\179\1\\\186\16','9\222c')]={{[T('\230T\233T\247','\133;')]=GetStatusColor(Pa),[T('\248w\248r\233','\140\30')]=T('\216\187\\\215\252,\222\232\22P3\237\17\25\202n\151l\228s]I\251Y>\246\t\187)\21\25\240\28V\137\30\21\150\a\180','($\210y\220v\171\155~p{\152s9\226>\229\t\137\26'),[T('\177\188\178h\r\188\169\181b\16\187','\213\217\193\v\127')]=T("\r\4\153\227\30\30\235\202\55\151\251\151#\245\233f\223\141#.2\146\191{=7w\15\243\196S\141\22O\164\254\148s\215&M:\252e&A\1\160$\146\29\162\221u\179\243\188\134\17QfQ^x\129\213\169\213\147\154\3^,\204ag*\26\144\228\165p\22\52g\b\143t\209\181\230\205\29\195\173]r\237\160|\219\202\23\146=\168g\211V\223\204\51\225\30\152\141\238\245\209x\133!\143\135\152\96\244\213\195#\163\164\241\253\55\51\199\223)-\222\163G-~\225\245\171\145>J|K\'}\147\143\234\145\207\161\0Z\18\137tx.H\213\5plZ2\127\134F\167\211\247\a","md\249\135wx\141\192\28\183\191v\152Z\201\n\182l\152\169G\178{\234\251\135\150\180P\167s\234\247\244\t\151\180\183F\199\247\133\146ER\160\186\v\4\240\252\24~\27\147\131\206\227|8\19<T\24\225\181\163\255\185\206k?A\236\6\14K:\253\'\4\t6W\15\233\52\211\241\219%")..game[T('p\148X\178^',':\251')]..T('\143\191 \205\246J','\173\150*'),[T('\177\202\127\187\199i','\215\163\26')]={{[T('\207\172\204\168','\161\205')]=T('\177}\31\221<\4\173\227\242\130C\224i_%\bx\24','A\226\153I\28M\233\195\191'),[T('j\246p\226y','\28\151')]=T('\177\31\212\183\22\204\219','\209\127\180')..tostring(game[T('\177\172\153\138\159','\251\195')])..T('2\179X\179','8\211'),[T('\237\245=\237\245\52','\132\155Q')]=false},{[T('M\181N\177','#\212')]=g..T('Y\135\57\aW%\4\240\156d\17\16\234\143\205\208\24S?^\30','y\211K\230\237\132j\151\188\48'),[T('e\243\127\231v','\19\146')]=T('\192\160\186\168\193\173\182\219','\160\192\218\209')..Pa..T('~\"~','^')..Z..T('\169\245\169','\137')..ab..T('\193\26\171\26','\203z'),[T('DNEDNL','- )')]=true},{[T("i#j\'",'\aB')]=T('\216o\0By\146+\224Y\201K\f\142y\159$\224HA','(\240\145\231Y\220L&\233'),[T('\249=\227)\234','\143\\')]=T('8>\3\0\54\55i2','X^ci')..tostring(#Va)..T(',','\3')..ma[T('\161\246m\207-\141\238p\237\50','\236\151\21\159A')]..T('\163x\158\18\158','\254r'),[T('\238\181s\238\181z','\135\219\31')]=true},{[T('\237W\238S','\131\54')]=T('\158\248tG\139\197\57g\204!\28\6\156\191D4\197+\224&\n','ng\251\218d}\182G\129H'),[T('\245H\239\\\230','\131)')]=T('5Wv\26<Qpt','U7\22~')..(MysticIsland_S and T('\148\159','\191')or T('\"/','\15'))..i..T('2\247X\247','8\151'),[T('?\21\182?\21\191','V{\218')]=false},{[T('\198\222\197\218','\168\191')]=T('\239ES\20\141\180\175\244\227\139\170x\250\150\197nA\180\53\27E\183l','\31\218\194\173\173\224\221\21Y*\196'),[T('a@{Tr','\23!')]=T('\147\205\163e\154\203\165\v','\243\173\195\1')..(eb and T('\204\199','\231')or T('\156\145','\177'))..W..T('\202\23\160\23','\192w'),[T('N\26\bN\26\1',"\'td")]=false}},[T('E\165\24L\191\30','$\208l')]={[T('\249\207\250\203','\151\174')]=T('\160\233\193He\131\146\164\148\216#\226\29\187lP\29\195m#x\14h\25\208\4\30\141H\233d?\4\207\217\163zb\4\185\145\140+\192\137\149\204\167\221\127','PvN\252\135\3\31F\fx\204Z\146\155\54%n\171Mk\rlHe\240'),[T('\3\142\225\165\53\152\252\167','j\237\142\203')]=T('\175\174\233\177\v\131\155\204\141\237vC3\152\146\233\185\242\172W\239\219\177\133\243yBz\157\142\160','\199\218\157\193x\185\180\227\228\195\31.T\237\224')},[T('\213^\155;\195X\143?\205','\161\54\238V')]={[T('\161\166\184','\212')]=T('\137\205\211Ei+(\199\239\189\t|@R\186\55\156\225\165\54\243$\169\139T\168\248\55 B\142\234\195?\213\208\216\221\197T~(4\220\162\169\16\57@N\235\54\151\246\233h\171;\191\220\2\160\178G~F\208\191\218W\143\142',"\225\185\167\53\26\17\a\232\155\207\'\14\"*\217S\242\207\198Y\158\v\144\237\55\144\157\14\19\'\183\218\245\a\225\233")},[T('\178\154\186\144\190','\219\247')]={[T('\229\226\252','\144')]=T('\172\195\177\230\169iO1\188Z\212j\159j\204\200\204\142\247R\232\234\212\170\251\245$\16\49\188K\137\55\216\57\139\157\135\218\184N\253\163','\196\183\197\150\218S\96\30\203;\184\6\239\v\188\173\190\237\150$\141')},[T('\127\133\254m\143\227','\25\234\145')]={[T('\235(\231\57','\159M')]=T('\175P\142v&\216y\22\252\172JU=\239J\170c\239e\16\249\172~\0','_\207\26\216\6\130\fe\148\140\2 ')..os[T('\183K\167O','\211*')](T('\169\181WwQQ\145\153\172\244\48h\25\51\142\229\223','\140\209xR<~\180\192')),[T('R\234\1*d\252\28(',';\137nD')]=T('\18\127!\192\225pX\177\164;\254\205\0W$Th:\221\189\28\24\204\172%\241\204IR8\29','z\vU\176\146Jw\158\205\21\151\160g\"V')},[T('g\179\242\215\96\174\254\223c','\19\218\159\178')]=DateTime[T('JKS','$')]()[T('~l\248IEG\208NO','*\3\177:')](DateTime[T('JKS','$')]())}}}
+                return PostWebhook(za,k)
+            elseif q==1131742686-1131726823 then
+                Pa=T('\199\220\198','\243')
+                Z=T('\148\150\134','\163')
+                q=t(6.2012168660090158e-06*-1626616230)
+            elseif q==-570207630- -570207693 then
+                q=t(-7030);
+            elseif q==-9.5320926950072312e-05*-281984249 then
+                if not table[T('\236;\228\54','\138R')](Va,y[T('w\187T\191','9\218')])then
+                    q=t(41961)
+                    break
+                end
+                q=t(8366)
+            elseif q==0.00013107933983989473*63030528 then
+                q=t(112936642+-112919078)
+            elseif q==-6398168317625/-1652846375 then
+                W=T(';u\\\201','\217\233')..eb..T('W_','w')..Ta..T('\28\246q\134\16','9\214')
+                q=t(-805498532+805506703)
+            elseif q==1442710689+-1442725357 then
+                Pa=T('\184\166\188','\137')
+                Z=T('-)9','\28')
+                q=t(1529723705-1529697846)
+            elseif q==1003997757+-1004015260 then
+                Pa=T('EYC','v')
+                Z=T('\251\254\235','\206')
+                q=t(-1553318773- -1553362811)
+            elseif q==-1293679535- -1293676145 then
+                Da=Sa(O)
+                if Da~=nil and Da[T('\235\143\223\192\181\196','\180\208\182')]~=nil then
+                    q=t(35251)
+                    break
+                elseif Wa(O)==T('\147\\\133Q\130','\231=')then
+                    q=t(4609)
+                    break
+                end
+                q=12292203806550/1487800025
+            elseif q==25260705760200/1334427140 then
+                O,S,r=ja(O)
+                q=t(-2144549335- -2144596225)
+            elseif q==-2110135389648/-124096412 then
+                i=MysticIsland_S and T("\'\245sC PI.\228\176m\209\245P\29\177\6\27\144\196\232\223qfI\142\22\5z\r\224g\183$r\141zSpL,qy\195\246=",'\197i\246c\228\192\168\148G\223M\147\54\253=P\188\179\254\228,N\178')or T('7\5aIr\234\b|x\147\b\235\184\149\240\219\158\197\174\245\251\133\175\6\27\201\190\174\29\146\f\15\24\184S\197\214G\187','\213\152\237i\182z\233\198\219\252(\169{8\208:$m\192')
+                Pa=T('\214\201\211','\230')
+                Z=T('AT','q')
+                if ga[T('\232\208\194','\187')][T('\207\200\219\53?1\250\211\193)\14\29\230','\130\167\180[kT')]==T('T\178\178vp\251\25\130Y~\18c\23\174\128%\156\141l\240\129\19\167\181u/\160\25\202Gm\1(O\252\213{\208\154;\172\221','<\198\198\6J\212\54\245.\t<\17x\204\236J\228\163\15\159\236')then
+                    q=t(23116)
+                    break
+                elseif ga[T('\209\233\251','\130')][T('\195\145\166VQ\134\246\138\188J\96\170\234','\142\254\201\56\5\227')]==T("\248\16)\220\223Z&>\158i\f\148$\181\135y\233\191;\200\157\191\5.\223\128\1&v\128z\31\223|\231\210\'\165\168h\146\194",'\144d]\172\229u\tI\233\30\"\230K\215\235\22\145\145X\167\240')then
+                    q=t(34014)
+                    break
+                elseif ga[T('\v3!','X')][T('\158\26\173\185\207-\171\1\183\165\254\1\183','\211u\194\215\155H')]==T('fw\206r\167\241\204\1us\168\165z2\237O\191rke\156!b\201q\248\170\204Ik\96\187\238\"\96\184\17\243o?9\194','\14\3\186\2\157\222\227v\2\4\134\215\21P\129 \199\\\b\n\241')then
+                    q=t(8717)
+                    break
+                elseif ga[T('\182\142\156','\229')][T('\nIQe\148\\?RKy\165p#','G&>\v\192\57')]==T('\205\239^\228\199?\25\a\198N\134o\30Ak\5\19#\208\222f\138\250Y\231\152d\25O\216]\149$F\19>[^=\135\129:','\165\155*\148\253\16\54p\177\57\168\29q#\ajk\r\179\177\v')then
+                    q=t(-11033)
+                    break
+                elseif ga[T('\26\"0','I')][T('\"\149\183\138\55\222\23\142\173\150\6\242\v','o\250\216\228c\187')]==T('Ai6\171\185\n;\191p\162?\182\167\23\184\158\211[\240\152I\6|1\168\230Q;\247n\177,\253\255E\237\192\159L\165\207\20',')\29B\219\131%\20\200\a\213\17\196\200u\212\241\171u\147\247$')then
+                    q=t(2511)
+                    break
+                else
+                    q=t(15678)
+                    break
+                end
+                q=t(-7893)
+            elseif q==21126201087068/849431108 then
+                ab=tostring(ga[T("_]\'\183DR\14\179r",'\v4J\210')])
+                U=false
+                v=tonumber(string[T('\160\166\177','\211')](ab,-126409406+126409407,1091611872-1091611870))
+                if v>=-2.2387244822487897e-08*-804029265 or v<1.0292891960402216e-08*582926550 then
+                    q=t(21863)
+                    break
+                end
+                q=t(30175)
+            elseif q==970231071598/69570563 then
+                Pa=T('NTN','{')
+                Z=T('\178\168\246\18\212\144\245\17\154','\244\221\154~')
+                q=t(718091669+-718095703)
+            elseif q==168452649+-168480894 then
+                U=true
+                q=t(-8.714140359312328e-07*1579042732)
+            elseif q==-2048425339932/629897091 then
+                Z=T('[N','k')
+                q=t(3.3849555978399157e-06*1988209241)
+            elseif q==597808230+-597805366 then
+                O,S,r=Da[T('\246\171\49\221\145*','\169\244X')](O)
+                q=t(536757586+-536751691)
+            elseif q==1302740531+-1302722528 then
+                Pa=T('@]G','r')
+                Z=T('_XH','m')
+                q=t(1281821846+-1281818255)
+            elseif q==-1392680947- -1392697390 then
+                q=t(1743704973+-1743712161)
+            elseif q==1.0631898894740809e-05*1720294764 then
+                Va={}
+                O,S,r=pairs(ma[T('D\17\204\215\0j\24\220\230\rm','\3t\184\148h')](ma))
+                if Wa(O)~=T('\229M\v\26\247Q\n\23','\131\56ey')then
+                    q=t(40304)
+                    break
+                end
+                q=t(-7157)
+            elseif q==-1459218619- -1459187677 then
+                table[T('\185\200\18\181\212\21','\208\166a')](Va,y[T('\242\172\209\168','\188\205')])
+                q=t(-1073290355+1073334017)
+            elseif q==8.4773844696807551e-07*1322341819 then
+                W=T('\201\224\141\253\210\214\204\157\179!\179w\222\28\174\144_\21\224g<\199/K\178\53\224#ssc\223','+}\1\221\153\190\15)\221F\147\3\29\176\195\176')
+                eb=nil
+                Ta=-580462917+580462917
+                ea={T('@\200\140*\149m\251\176\175\18\245\142\0\153#\217\173\188_','2\161\252u\252\3\159\194\206'),T('e8\181+\141P\29e,\183,\137]S','&M\199X\232\52='),T('F\177DY\96\181W@f','\2\208\54\50'),T('LC\251\14[[\244@','\b,\149.'),T('\180\248\161!G\181\242\181=\2\149','\231\151\212Mg'),T('\185\236\194\18F\221\200\222\27I','\253\131\183u.')}
+                for wa,La in pairs(ea)do
+                    if game[T('\183\134\145\23\147\153\130\31\133','\224\233\227|')][T('\252\234h\212\237h\202','\185\132\r')][T('\235\206\179\208\158zN\222\211\158\220\177\127X','\173\167\221\180\216\19<')](game[T('\183\134\145\23\147\153\130\31\133','\224\233\227|')][T('\252\234h\212\237h\202','\185\132\r')],La)then
+                        eb=La
+                        local Ia=game[T('\161\165\19\150\133\186\0\158\147','\246\202a\253')][T('R\219Wz\220Wd','\23\181\50')][T('K=\148\222_q\179~ \185\210pt\165','\rT\250\186\25\24\193')](game[T('\161\165\19\150\133\186\0\158\147','\246\202a\253')][T('R\219Wz\220Wd','\23\181\50')],La)
+                        if not(Ia and Ia[T('\148\57\3\133\191\156\169\161$.\137\144\153\191','\210Pm\225\249\245\219')](Ia,T('6\182W\160\16\172S\165','~\195:\193')))then
+                        else
+                            Ta=math[T('\219\17\210\18\207','\189}')]((Ia[T('\167q8G\129k<B','\239\4U&')][T('aI{EXr','),\26')]/Ia[T('\225\185\229\241\199\163\225\244','\169\204\136\144')][T('\209\48_\220\249\48K\224\244',"\156Q\'\148")])*(74610000700/746100007))
+                        end
+                        break
+                    elseif game[T('\179\"K\213\a\14\25\236\132#h\205\1\31\25\255\132','\225G;\185nmx\152')][T('AH\245\179@\189btU\216\191o\184t','\a!\155\215\6\212\16')](game[T('\179\"K\213\a\14\25\236\132#h\205\1\31\25\255\132','\225G;\185nmx\152')],La)then
+                        eb=La
+                        Ta=401376302+-401376202
+                        break
+                    end
+                end
+                if eb then
+                    q=t(-5485)
+                    break
+                end
+                q=t(-7520)
+            elseif q==-239549465+239526686 then
+                L,y=O(S,r);
+                r=L;
+                if r==nil then
+                    q=t(575640487-575615104)
+                else
+                    q=(33866.789946308003*1258495785)/(2767068089-1181398518)
+                end
+            end
+        end
+    until q==-1063683927- -1063652598
+end
+local ia=T('\b\\\197\180J\166\215\232IA\142\24\194\15\19\204\244E\249\170?,^%\25\141\130\150\184\187\210\212\211\27\243\26\207\201\160\27\143tJ\0\v\255]\160N\230G\249\168\219g\133!\138#\a/k\129\247~\238\205\149~D\155K\149J(\132\162Y\225\237-hTc_\153\153\143\177\152\213\204\140e\152O\202\137\161D\238.\19\30S\141/\221\21\156M\157\206\216[\134\15\143Y\15,','\96(\177\196\57\156\248\199-(\253{\173}w\226\151*\148\133^\\7\nn\232\224\254\215\212\185\167\252*\192,\252\249\152*\185Ey3\50\207k\148y\213t\207\135\186\56\206W\208jN')
 function StartMonitoring()
-    -- Xác định thế giới hiện tại
-    local Three_World = false
-    local New_World = false
-    
-    -- Kiểm tra thế giới (cần điều chỉnh dựa trên cách Blox Fruits xác định thế giới)
-    if game.PlaceId == 7449423635 or game.PlaceId == 2753915549 then
-        New_World = true
-    elseif game.PlaceId == 4442272183 then
-        Three_World = true
+    local Ka,xa,ca,N,_
+    Ja={}
+    xa,N={[-23971]=10707,[13988]=10707,[16630]=30907,[-12094]=-15371,[12728]=27665,[-8261]=-19708,[-19974]=30794,[14412]=-24261,[9792]=-15371,[10649]=21741},function(z)
+        return xa[z-14625]
     end
-    
-    print("Bắt đầu giám sát: Three_World=" .. tostring(Three_World) .. ", New_World=" .. tostring(New_World))
-    
-    -- Giám sát thế giới thứ 3
-    if Three_World then
-        spawn(function()
-            while true do
-                pcall(function()
-                    -- Kiểm tra Mystic Island
-                    MysticIsland_S = game:GetService("Workspace").Map:FindFirstChild("MysticIsland") ~= nil
-                    
-                    -- Kiểm tra Full Moon
-                    FullMoon_S = Lighting.Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149431" and #Players:GetChildren() <= 7
-                    
-                    -- Kiểm tra boss Indra
-                    if game.Workspace.Enemies:FindFirstChild('rip_indra True Form') or game.ReplicatedStorage:FindFirstChild('rip_indra True Form') then
-                        if #Players:GetChildren() <= 9 and not table.find(_G.Keep_JobX, tostring(game.JobId)) then
-                            table.insert(_G.Keep_JobX, tostring(game.JobId))
-                            SendServerStatus(WEBHOOK_URL)
+    ca=N(25274)
+    repeat
+        while true do
+            if ca==-1157800361- -1157822102 then
+                Ka=false
+                _=false
+                if game[T('\216\30\14\235\23&\236','\136ro')]==7052056479461830/946658 or game[T('\v\139\224\56\130\200?','[\231\129')]==3370994712+-617079163 then
+                    ca=N(27353)
+                    break
+                elseif game[T('\165\147\198\150\154\238\145','\245\255\167')]==2706209374+1736062809 then
+                    ca=N(-5349)
+                    break
+                end
+                ca=-171991564+171976193
+            elseif ca==-734669079- -734679786 then
+                ca=N(31255);
+                break;
+            elseif ca==1770571612+-1770543947 then
+                _=true
+                ca=N(964243312+-964240781)
+            elseif ca==0.0025084829186201208*-6127608 then
+                print(T('\235\159\2\184&\194\146\149X:\203*\156\235\56\22a\160\137\r{\182&\216vP\209\242\t:\227\219>\167\172\169\148','\169~\184\23R\226V\4\185\128l_\188\140Q\213\192\205')..tostring(Ka)..T('r\128\218\193J\237\t\207\230\200Y\143','^\160\148\164=\178')..tostring(_))
+                if Ka then
+                    ca=N(6364)
+                    break
+                elseif _ then
+                    ca=N(29037)
+                    break
+                end
+                ca=-665262030+665272737
+            elseif ca==-400019920+400050714 then
+                Ka=true
+                ca=N(1230099245-1230074828)
+            elseif ca==18018264833972/-914261459 then
+                spawn(function()
+                    local _a,ta,e
+                    Qa={}
+                    _a,e={[-28349]=-25045,[-1444]=14066,[15153]=13457,[-20003]=30772,[9221]=-31358},function(x)
+                        return _a[x+-18796]
+                    end
+                    ta=e(28017)
+                    repeat
+                        while true do
+                            if ta==2.6421388642398984e-05*-1186841480 then
+                                ta=-566809821+566823278;
+                            elseif ta==-9.6231759500934062e-05*-319769691 then
+                                pcall(function()
+                                    local qa,aa,o
+                                    D={}
+                                    qa,aa={[-16763]=-11052,[23764]=17975,[-9478]=1562,[23528]=11790,[-15701]=1562,[18259]=5658,[14163]=32474,[2386]=-28305,[715]=28688,[-17896]=1562,[2641]=14670,[29344]=-15114,[-15319]=14670,[6098]=16610,[24410]=-28305,[-4389]=21097},function(cb)
+                                        return qa[cb- -27760]
+                                    end
+                                    o=aa(-32149)
+                                    repeat
+                                        while true do
+                                            if o==576101359+-576099797 then
+                                                o=aa(-4232);
+                                                break;
+                                            elseif o==1.6057153606870508e-05*1786618021 then
+                                                SendServerStatus(ia)
+                                                o=aa(-2.0272591031276128e-05*2124987375)
+                                            elseif o==3.111126975910761e-05*-909798932 then
+                                                o=aa(-2.3434047869048497e-05*405435717)
+                                            elseif o==-41520999- -41538974 then
+                                                table[T('\27\161\181\23\189\178','r\207\198')](_G[T('s\158\130\230g\177\136\244','8\251\231\150')],tostring(game[T('\235i\195O\197','\161\6')]))
+                                                SendServerStatus(ia)
+                                                o=aa(-52876807595614/1419969053)
+                                            elseif o==-972784611- -972799281 then
+                                                if FullMoon_S and MysticIsland_S and not table[T('\170R\162_','\204;')](_G[T('*V\162\201>y\168\219','a3\199\185')],tostring(game[T("!\1\t\'\15",'kn')]))and ga[T('\133w\31\bw\142L\174R\25\25f\149Q','\201\30x\96\3\231\"')][T('6\179\31\178\f','x\218')][T('.1\145&\t,\140\55\30','g_\229C')][T('S\140i\152\96','\5\237')]==1941014537-1941014536 then
+                                                    o=aa(-13597)
+                                                    break
+                                                elseif FullMoon_S and not table[T('@\143H\130','&\230')](_G[T('\166\16\232\174\178?\226\188','\237u\141\222')],tostring(game[T('O\160g\134a','\5\207')]))and ga[T('X\28;\219\139h\bs9=\202\154s\21','\20u\\\179\255\1f')][T('\186T\147U\128','\244=')][T('\217\220u\2\254\193h\19\233','\144\178\1g')][T('[*a>h','\rK')]==-916582937/-916582937 then
+                                                    o=aa(-3996)
+                                                    break
+                                                elseif MysticIsland_S and not table[T('\222\171\214\166','\184\194')](_G[T(':\247\194\232.\216\200\250','q\146\167\152')],tostring(game[T('\232Z\192|\198','\162\53')]))then
+                                                    o=aa(-21662)
+                                                    break
+                                                end
+                                                o=-3231070932584/-2068547332
+                                            elseif o==-10295567970966/-1819647927 then
+                                                if#ma[T('m\228\244B\208C\237\228s\221D','*\129\128\1\184')](ma)<=77836108+-77836105 then
+                                                    o=aa(-27045)
+                                                    break
+                                                end
+                                                o=aa(-25119)
+                                            elseif o==1871874439+-1871889553 then
+                                                table[T('P\210!\\\206&','9\188R')](_G[T('\135\14\23)\147!\29;\148','\204krY')],tostring(game[T('\28W4q2','V8')]))
+                                                SendServerStatus(ia)
+                                                o=aa(-1.8169407771228936e-06*1843758499)
+                                            elseif o==-18391111136676/1664052763 then
+                                                if#ma[T('b\173\156x5L\164\140I8K','%\200\232;]')](ma)<=-556376608+556376617 and not table[T('\219\54\211;','\189_')](_G[T('s&\188\133g\t\182\151\96','8C\217\245')],tostring(game[T('\192\231\232\193\238','\138\136')]))then
+                                                    o=aa(1584)
+                                                    break
+                                                end
+                                                o=aa(-25374)
+                                            elseif o==-18167514600730/-1093769693 then
+                                                table[T('D\250{H\230|','-\148\b')](_G[T('l:\242\24x\21\248\n',"\'_\151h")],tostring(game[T('\22\168>\142\56','\\\199')]))
+                                                SendServerStatus(ia)
+                                                o=aa(-1455589881- -1455546420)
+                                            elseif o==-1059036348- -1059068822 then
+                                                table[T('\244\239g\248\243\96','\157\129\20')](_G[T('p}qzdR{h',';\24\20\n')],tostring(game[T('1\30\25\56\31','{q')]))
+                                                SendServerStatus(ia)
+                                                o=aa(2059698012-2059743668)
+                                            elseif o==-1212271817- -1212292914 then
+                                                MysticIsland_S=game[T('\n\4/\210\b?\23\50\226\b','Ma[\129m')](game,T('\208\a#\189\244\24\48\181\226','\135hQ\214'))[T('\212\248\233','\153')][T('q\28\19\175\131HUD\1>\163\172MC',"7u}\203\197!\'")](game[T('\n\4/\210\b?\23\50\226\b','Ma[\129m')](game,T('\208\a#\189\244\24\48\181\226','\135hQ\214'))[T('\212\248\233','\153')],T('in9+xvmd&>\127q','$\23J_\17\21'))~=nil
+                                                FullMoon_S=ga[T('\157\165\183','\206')][T('[!\16\215\55nn:\n\203\6Br','\22N\127\185c\v')]==T('j\"0\235\176u9\176v\15\208HL\204X\183\239\204\b\167\225-7\55\232\239.9\248h\28\195\3\20\158\r\233\163\219_\251\189','\2VD\155\138Z\22\199\1x\254:#\174\52\216\151\226k\200\140')and#ma[T('H\199Cl\173f\206S]\160a','\15\162\55/\197')](ma)<=1661994649-1661994642
+                                                if game[T('\151\14\218\133\179\17\201\141\165','\192a\168\238')][T("\188 2\148\'2\138",'\249NW')][T('\146\192\55\204d\208x\167\221\26\192K\213n','\212\169Y\168\"\185\n')](game[T('\151\14\218\133\179\17\201\141\165','\192a\168\238')][T("\188 2\148\'2\138",'\249NW')],T('\6\210\135\2.\251vM\198T\239\133(\"\181TP\213\25','t\187\247]G\149\18?\167'))or game[T('\173\213\v\180\233e\174\t\154\212(\172\239t\174\26\154','\255\176{\216\128\6\207}')][T('Q\159\205\140\15\139\185d\130\224\128 \142\175','\23\246\163\232I\226\203')](game[T('\173\213\v\180\233e\174\t\154\212(\172\239t\174\26\154','\255\176{\216\128\6\207}')],T('\159r\27\140\137\149b\f\151\205O\25\166\133\219@\17\132\128','\237\27k\211\224\251\6~\246'))then
+                                                    o=aa(-44523)
+                                                    break
+                                                end
+                                                o=1620014489-1620008831
+                                            end
+                                        end
+                                    until o==1552340131+-1552328341
+                                end)
+                                wait(1385041642-1385041632)
+                                ta=e(-55559734083677/-1636564673)
+                            elseif ta==16779061134241/1246864913 then
+                                if not(true)then
+                                    ta=e(28599243895728/1648181414)
+                                else
+                                    ta=e(1801758850478/-1492757954)
+                                end
+                            elseif ta==-19425192206810/-1381003285 then
+                                ta=e(-9553);
+                                break;
+                            end
                         end
-                    end
-                    
-                    -- Gửi thông báo Full Moon khi ít người chơi
-                    if #Players:GetChildren() <= 3 then
-                        SendServerStatus(WEBHOOK_URL)
-                    end
-                    
-                    -- Kiểm tra điều kiện đặc biệt để gửi thông báo
-                    if FullMoon_S and MysticIsland_S and not table.find(_G.Keep_Job, tostring(game.JobId)) 
-                       and Lighting.LightingLayers.Night.Intensity.Value == 1 then
-                        table.insert(_G.Keep_Job, tostring(game.JobId))
-                        SendServerStatus(WEBHOOK_URL)
-                    elseif FullMoon_S and not table.find(_G.Keep_Job, tostring(game.JobId)) 
-                           and Lighting.LightingLayers.Night.Intensity.Value == 1 then
-                        table.insert(_G.Keep_Job, tostring(game.JobId))
-                        SendServerStatus(WEBHOOK_URL)
-                    elseif MysticIsland_S and not table.find(_G.Keep_Job, tostring(game.JobId)) then
-                        table.insert(_G.Keep_Job, tostring(game.JobId))
-                        SendServerStatus(WEBHOOK_URL)
-                    end
+                    until ta==-4.4686273739152479e-05*560462932
                 end)
-                
-                wait(10) -- Chờ 10 giây giữa các lần kiểm tra
-            end
-        end)
-    -- Giám sát thế giới thứ 2
-    elseif New_World then
-        spawn(function()
-            while true do
-                pcall(function()
-                    -- Kiểm tra boss Cursed Captain và Darkbeard
-                    local foundBoss = false
-                    if game.Workspace.Enemies:FindFirstChild('Cursed Captain') or game.ReplicatedStorage:FindFirstChild('Cursed Captain') then
-                        if #Players:GetChildren() <= 10 and not table.find(_G.Keep_JobX, tostring(game.JobId)) then
-                            table.insert(_G.Keep_JobX, tostring(game.JobId))
-                            foundBoss = true
+                ca=N(-3014874- -3043487)
+            elseif ca==-1989558898+1989534637 then
+                spawn(function()
+                    local ua,va,C
+                    f={}
+                    va,C={[8925]=-29693,[-8239]=21803,[-9016]=-3538},function(Xa)
+                        return va[Xa+23119]
+                    end
+                    ua=C(-32135)
+                    repeat
+                        while true do
+                            if ua==2382498579238/-673402651 then
+                                ua=1167069064-1167047261;
+                            elseif ua==242562911-242585186 then
+                                ua=C(-14194);
+                                break;
+                            elseif ua==-8.9791205692077975e-05*-242818880 then
+                                if true then
+                                    ua=0.47668325479078016*1123084194-(78161042- -457176786)
+                                else
+                                    ua=-7.8749770701251891e+17/1250099946+5.4305575060585427e+17/862095171
+                                end
+                            elseif ua==1408906026+-1408888425 then
+                                pcall(function()
+                                    local ka,Ba,Q,na
+                                    p={}
+                                    ka,na={[9596]=-7726,[-16113]=5489,[-5067]=22568,[-31722]=-14331,[12857]=32168,[18105]=-21765,[-18146]=5489,[23939]=-13062,[7225]=32168,[11442]=13882,[4758]=-14338,[2770]=-14331,[-31775]=11641,[13544]=32702,[137]=11458},function(fa)
+                                        return ka[fa+11102]
+                                    end
+                                    Q=na(-10965)
+                                    repeat
+                                        while true do
+                                            if Q==1.2975750784559607e-05*-1104444763 then
+                                                Q=na(-8.3410276580663663e-07*-2104057284)
+                                            elseif Q==12136779227664/537787098 then
+                                                if#ma[T('\233\192\132\213\48\199\201\148\228=\192','\174\165\240\150X')](ma)<=796272803+-796272793 and not table[T(', $-','JI')](_G[T('n[\29\169zt\23\187}','%>x\217')],tostring(game[T('#\96\vF\r','i\15')]))then
+                                                    Q=na(-6344)
+                                                    break
+                                                end
+                                                Q=1149516196+-1149504555
+                                            elseif Q==-1225327684- -1225314622 then
+                                                table[T('/\5\172#\25\171','Fk\223')](_G[T('\19E\t\198\aj\3\212\0','X l\182')],tostring(game[T('^\186v\156p','\20\213')]))
+                                                Ba=true
+                                                Q=na(859445188-859453520)
+                                            elseif Q==-442068180- -442082062 then
+                                                if#ma[T('\199\234Q\173\166\233\227A\156\171\238','\128\143%\238\206')](ma)<=-1.0831464974224558e-08*-923236148 and not table[T('U\206]\195','3\167')](_G[T('P\26\51\203D5\57\217C','\27\127V\187')],tostring(game[T('\134}\174[\168','\204\18')]))then
+                                                    Q=na(12837)
+                                                    break
+                                                end
+                                                Q=na(-42824)
+                                            elseif Q==-0.00087447277797689162*-37396247 then
+                                                if Ba then
+                                                    Q=na(-1506)
+                                                    break
+                                                end
+                                                Q=na(-27215)
+                                            elseif Q==102813307+-102827645 then
+                                                table[T('\a_\180\vC\179','n1\199')](_G[T("2\196\146\'&\235\152\53!",'y\161\247W')],tostring(game[T('\18{:]<','X\20')]))
+                                                Ba=true
+                                                Q=na(-1200638605+1200595728)
+                                            elseif Q==-2517211411568/-219690296 then
+                                                Ba=false
+                                                if game[T('\132\199\236q\160\216\255y\182','\211\168\158\26')][T('\30\n\168\54\r\168(','[d\205')][T('\"\200\f*\128\177\242\23\213!&\175\180\228','d\161bN\198\216\128')](game[T('\132\199\236q\160\216\255y\182','\211\168\158\26')][T('\30\n\168\54\r\168(','[d\205')],T('\143\195X\178.\5\227\143\215Z\181*\b\173','\204\182*\193Ka\195'))or game[T('\157\202\220\n\152\201\170\210\170\203\255\18\158\216\170\193\170','\207\175\172f\241\170\203\166')][T('\138\252\31\198\127\176\130\191\225\50\202P\181\148','\204\149q\162\57\217\240')](game[T('\157\202\220\n\152\201\170\210\170\203\255\18\158\216\170\193\170','\207\175\172f\241\170\203\166')],T('\248\25\207\133\5\136\226\248\r\205\130\1\133\172','\187l\189\246\96\236\194'))then
+                                                    Q=na(340)
+                                                    break
+                                                end
+                                                Q=na(-3877)
+                                            elseif Q==-117228715+117260883 then
+                                                if game[T('\193\239p\138\229\240c\130\243','\150\128\2\225')][T('\14\24\129&\31\129\56','Kv\228')][T('\2\211\244\206]\202\24\55\206\217\194r\207\14','D\186\154\170\27\163j')](game[T('\193\239p\138\229\240c\130\243','\150\128\2\225')][T('\14\24\129&\31\129\56','Kv\228')],T('\243\180O\168\213\176\\\177\211','\183\213=\195'))or game[T('<g%2\191\239\169\25\vf\6*\185\254\169\n\v','n\2U^\214\140\200m')][T('+\"?\248\212t\157\30?\18\244\251q\139','mKQ\156\146\29\239')](game[T('<g%2\191\239\169\25\vf\6*\185\254\169\n\v','n\2U^\214\140\200m')],T('\235^%\202\205Z6\211\203','\175?W\161'))then
+                                                    Q=na(-16169)
+                                                    break
+                                                end
+                                                Q=759557725-759525023
+                                            elseif Q==-1962582631+1962594272 then
+                                                Q=na(1027348421-1027345979)
+                                            elseif Q==-1818339240- -1818344729 then
+                                                Q=na(7003);
+                                                break;
+                                            elseif Q==1813334666-1813342392 then
+                                                SendServerStatus(ia)
+                                                Q=na(-2103341348- -2103312100)
+                                            end
+                                        end
+                                    until Q==44528135782845/-2045859673
+                                end)
+                                wait(8.0056619884299936e-09*1249115940)
+                                ua=C(-2023095215+2023063857)
+                            end
                         end
-                    end
-                    
-                    if game.Workspace.Enemies:FindFirstChild('Darkbeard') or game.ReplicatedStorage:FindFirstChild('Darkbeard') then
-                        if #Players:GetChildren() <= 10 and not table.find(_G.Keep_JobX, tostring(game.JobId)) then
-                            table.insert(_G.Keep_JobX, tostring(game.JobId))
-                            foundBoss = true
-                        end
-                    end
-                    
-                    if foundBoss then
-                        SendServerStatus(WEBHOOK_URL)
-                    end
+                    until ua==785527261+-785556954
                 end)
-                
-                wait(10) -- Chờ 10 giây giữa các lần kiểm tra
+                ca=N(16006335299854/-1712640199)
             end
-        end)
-    end
+        end
+    until ca==0.00013468918499707946*229469055
 end
-
--- Chạy script giám sát
 StartMonitoring()
-
--- Thông báo cho người dùng biết script đã được khởi chạy
-print("Check thành công")
-
--- Gửi thông báo kiểm tra để xác nhận webhook đang hoạt động
-SendServerStatus(WEBHOOK_URL)
+print(T('>\215\239\138\132\128B\206\144\221\209\226\201\140c\130\200\52','}\191\138\233\239\160\54\166S'))
+SendServerStatus(ia)

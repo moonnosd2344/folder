@@ -1,4 +1,4 @@
--- This script was protected using the MoonVeil Obfuscator v1.0.5 [https://moonveil.cc]
+-- tlinh yêu anh
 
 local c,T,Ha,Ua
 G={}
